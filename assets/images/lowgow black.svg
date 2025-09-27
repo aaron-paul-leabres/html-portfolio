@@ -1,0 +1,44 @@
+<svg id="white" xmlns="http://www.w3.org/2000/svg" width="4600" height="2000" viewBox="0 0 4600 2000">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-2, .cls-3, .cls-5, .cls-6, .cls-7, .cls-8 {
+        font-size: 1250px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-6 {
+        text-anchor: end;
+      }
+
+      .cls-1, .cls-2, .cls-6, .cls-7 {
+        font-family: "FONTSPRING DEMO - Intervogue Alt Thin";
+      }
+
+      .cls-10, .cls-3, .cls-5, .cls-8 {
+        text-anchor: middle;
+        font-family: "Playfair Display";
+      }
+
+      .cls-4, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-10, .cls-5 {
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <text id="VISUALIZATION" class="cls-1" transform="translate(4495.999 1174.514) scale(0.123)"><tspan x="0">VISUALIZATION</tspan></text>
+  <text id="RENDERING" class="cls-2" transform="translate(1827 1174.514) scale(0.123)">RENDERING</text>
+  <text id="AARON_PAUL_LEABRES" data-name="AARON PAUL LEABRES" class="cls-3" transform="translate(3160.711 942.912) scale(0.221)"><tspan x="0">AARON PAUL LEABRES</tspan></text>
+  <path id="Line_1_copy" data-name="Line 1 copy" class="cls-4" d="M1623,259.846h25v1401h-25v-1401Z"/>
+  <text id="APL" class="cls-5" transform="matrix(0.647, 0, 0, 0.647, 759.81, 1248.016)"><tspan x="0">APL</tspan></text>
+  <text id="VISUALIZATION-2" data-name="VISUALIZATION" class="cls-6" transform="translate(4495.999 1174.514) scale(0.123)"><tspan x="0">VISUALIZATION</tspan></text>
+  <text id="RENDERING-2" data-name="RENDERING" class="cls-7" transform="translate(1827 1174.514) scale(0.123)">RENDERING</text>
+  <text id="AARON_PAUL_LEABRES-2" data-name="AARON PAUL LEABRES" class="cls-8" transform="translate(3160.711 942.912) scale(0.221)"><tspan x="0">AARON PAUL LEABRES</tspan></text>
+  <path id="Line_1" data-name="Line 1" class="cls-9" d="M1623,259.846h25v1401h-25v-1401Z"/>
+  <text id="APL-2" data-name="APL" class="cls-10" transform="matrix(0.647, 0, 0, 0.647, 759.81, 1248.016)"><tspan x="0">APL</tspan></text>
+</svg>
